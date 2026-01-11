@@ -69,6 +69,7 @@
   - [SVG转PNG](https://qubittool.com/zh/tools/svg-to-png)
   - [图片转Base64](https://qubittool.com/zh/tools/image-to-base64)
   - [Base64转图片](https://qubittool.com/zh/tools/base64-to-image)
+  - [SVG 优化器](https://qubittool.com/zh/tools/svg-optimizer)
 - **PDF工具**
   - [PDF 压缩](https://qubittool.com/zh/tools/pdf-compressor)
   - [PDF 合并](https://qubittool.com/zh/tools/pdf-merger)
@@ -93,6 +94,8 @@
   - [JSON 转 YAML 转换器](https://qubittool.com/zh/tools/json-to-yaml)
   - [JSON 转 TOON 转换器](https://qubittool.com/zh/tools/json-to-toon)
   - [TOON 转 JSON 转换器](https://qubittool.com/zh/tools/toon-to-json)
+  - [HTML 转 Markdown](https://qubittool.com/zh/tools/html-to-markdown)
+  - [Markdown 转 HTML](https://qubittool.com/zh/tools/markdown-to-html)
 - **生成器**
   - [二维码生成器](https://qubittool.com/zh/tools/qrcode-generator)
   - [UUID 生成器](https://qubittool.com/zh/tools/uuid-generator)
@@ -111,6 +114,7 @@
   - [Markdown 编辑器](https://qubittool.com/zh/tools/markdown-editor)
   - [JavaScript格式化](https://qubittool.com/zh/tools/js-formatter)
   - [CSS格式化](https://qubittool.com/zh/tools/css-formatter)
+  - [代码对比](https://qubittool.com/zh/tools/code-diff)
 - **AI网站导航**
   - [AI网站导航](https://qubittool.com/zh/tools/ai-directory)
   - [AI提示词网站导航](https://qubittool.com/zh/tools/awesome-prompt-directory)

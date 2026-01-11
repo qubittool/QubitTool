@@ -69,6 +69,7 @@ Our growing collection of tools is organized into the following categories. Clic
   - [SVG to PNG](https://qubittool.com/en/tools/svg-to-png)
   - [Image to Base64](https://qubittool.com/en/tools/image-to-base64)
   - [Base64 to Image](https://qubittool.com/en/tools/base64-to-image)
+  - [SVG Optimizer](https://qubittool.com/en/tools/svg-optimizer)
 - **PDF Tools**
   - [PDF Compressor](https://qubittool.com/en/tools/pdf-compressor)
   - [PDF Merger](https://qubittool.com/en/tools/pdf-merger)
@@ -93,6 +94,8 @@ Our growing collection of tools is organized into the following categories. Clic
   - [JSON to YAML Converter](https://qubittool.com/en/tools/json-to-yaml)
   - [JSON to TOON Converter](https://qubittool.com/en/tools/json-to-toon)
   - [TOON to JSON Converter](https://qubittool.com/en/tools/toon-to-json)
+  - [HTML to Markdown](https://qubittool.com/en/tools/html-to-markdown)
+  - [Markdown to HTML](https://qubittool.com/en/tools/markdown-to-html)
 - **GENERATORS**
   - [QR Code Generator](https://qubittool.com/en/tools/qrcode-generator)
   - [UUID Generator](https://qubittool.com/en/tools/uuid-generator)
@@ -111,6 +114,7 @@ Our growing collection of tools is organized into the following categories. Clic
   - [Markdown Editor](https://qubittool.com/en/tools/markdown-editor)
   - [JavaScript Formatter](https://qubittool.com/en/tools/js-formatter)
   - [CSS Formatter](https://qubittool.com/en/tools/css-formatter)
+  - [Code Diff](https://qubittool.com/en/tools/code-diff)
 - **AI Directory**
   - [AI Websites Directory](https://qubittool.com/en/tools/ai-directory)
   - [AI Prompt Websites](https://qubittool.com/en/tools/awesome-prompt-directory)
