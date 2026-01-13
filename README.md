@@ -121,8 +121,11 @@ Our growing collection of tools is organized into the following categories. Clic
 
 ### 📝 Featured Blog Posts
 
+- [Number Base Conversion: Complete Guide to Binary, Octal, Decimal, and Hexadecimal](https://qubittool.com/en/blog/base-converter-complete-guide)
 - [Base64 Encoding & Decoding Complete Guide](https://qubittool.com/en/blog/base64-encoding-principles)
 - [Bearer Token Authentication Explained](https://qubittool.com/en/blog/bearer-token-authentication-explained)
+- [Color Picker Complete Guide](https://qubittool.com/en/blog/color-picker-complete-guide)
+- [Cron Expression Complete Guide](https://qubittool.com/en/blog/cron-expression-complete-guide)
 - [Data URLs Complete Guide](https://qubittool.com/en/blog/data-urls-complete-guide)
 - [Document Workflow Simplification Guide](https://qubittool.com/en/blog/document-workflow-simplification-guide)
 - [Geohash Core Principles & Applications](https://qubittool.com/en/blog/geohash-core-principles-applications)
@@ -131,19 +134,31 @@ Our growing collection of tools is organized into the following categories. Clic
 - [PDF Merge & Split Complete Guide](https://qubittool.com/en/blog/how-to-merge-and-split-pdfs)
 - [Complete Guide to Image Format Conversion](https://qubittool.com/en/blog/image-format-conversion-guide)
 - [Image Optimization Techniques Complete Guide](https://qubittool.com/en/blog/image-optimization-techniques-guide)
+- [Image Processing Complete Guide: Cropping, Watermarking, and Format Conversion](https://qubittool.com/en/blog/image-processing-complete-guide)
+- [JSON to CSV Conversion Complete Guide [2026]](https://qubittool.com/en/blog/json-csv-conversion-guide)
 - [JSON Diff Tool Complete Guide](https://qubittool.com/en/blog/json-diff-tool-principles-applications)
 - [JSON Formatting & Minification Complete Guide](https://qubittool.com/en/blog/json-formatting-and-minification-guide)
 - [JSON Schema Validation Complete Guide](https://qubittool.com/en/blog/json-schema-validation-guide)
+- [Complete Guide to JSON to Code Conversion- Principles, Use Cases & Multi](https://qubittool.com/en/blog/json-to-code-complete-guide)
 - [JSON vs XML Ultimate Showdown](https://qubittool.com/en/blog/json-vs-xml-ultimate-showdown)
+- [JSONPath Complete Guide [2026]](https://qubittool.com/en/blog/jsonpath-complete-guide)
 - [JWT Principles & Applications Complete Guide](https://qubittool.com/en/blog/jwt-principles-and-applications)
 - [MD5 Hash Explained](https://qubittool.com/en/blog/md5-hash-explained)
+- [Complete Guide to Password Generators](https://qubittool.com/en/blog/password-generator-complete-guide)
 - [PDF Conversion Tools Guide](https://qubittool.com/en/blog/pdf-conversion-tools-guide)
+- [QR Code Complete Guide [2026]](https://qubittool.com/en/blog/qrcode-complete-guide)
+- [Regular Expressions Complete Guide [2026]](https://qubittool.com/en/blog/regex-complete-guide)
+- [SQL Formatter Complete Guide](https://qubittool.com/en/blog/sql-formatter-complete-guide)
+- [Text Diff Algorithm Complete Guide: Diff Principles, LCS Algorithm, and Implementation](https://qubittool.com/en/blog/text-diff-complete-guide)
+- [Text Encoding Complete Guide: HTML Entities, ASCII, Unicode, and Character Encoding](https://qubittool.com/en/blog/text-encoding-complete-guide)
 - [Timestamp Conversion Complete Guide](https://qubittool.com/en/blog/timestamp-conversion-comprehensive-guide)
 - [Unix Timestamp Conversion Guide](https://qubittool.com/en/blog/timestamp-conversion-guide)
 - [TOON Format: Reduce LLM Token Usage by 50%](https://qubittool.com/en/blog/toon-format-llm-token-optimization)
 - [URL Encoding & Decoding Complete Guide](https://qubittool.com/en/blog/url-encoding-decoding-mysteries)
 - [URL Encoding Explained](https://qubittool.com/en/blog/url-encoding-explained)
 - [UUID Complete Guide](https://qubittool.com/en/blog/uuid-complete-guide)
+- [World Clock and Timezone Complete Guide: Timezone Principles, DST, and Programming Implementation](https://qubittool.com/en/blog/world-clock-timezone-guide)
+- [YAML and JSON Conversion Complete Guide](https://qubittool.com/en/blog/yaml-json-conversion-guide)
 
 ---
 

@@ -121,8 +121,11 @@
 
 ### 📝 精选博文
 
+- [进制转换完全指南](https://qubittool.com/zh/blog/base-converter-complete-guide)
 - [Base64编码解码完全指南](https://qubittool.com/zh/blog/base64-encoding-principles)
 - [Bearer Token认证详解](https://qubittool.com/zh/blog/bearer-token-authentication-explained)
+- [颜色选择器完全指南](https://qubittool.com/zh/blog/color-picker-complete-guide)
+- [Cron表达式完全指南](https://qubittool.com/zh/blog/cron-expression-complete-guide)
 - [Data URL完全指南](https://qubittool.com/zh/blog/data-urls-complete-guide)
 - [文档工作流简化指南](https://qubittool.com/zh/blog/document-workflow-simplification-guide)
 - [Geohash核心原理与应用](https://qubittool.com/zh/blog/geohash-core-principles-applications)
@@ -131,19 +134,31 @@
 - [PDF合并拆分完全指南](https://qubittool.com/zh/blog/how-to-merge-and-split-pdfs)
 - [图片格式转换完全指南](https://qubittool.com/zh/blog/image-format-conversion-guide)
 - [图片优化技术完全指南](https://qubittool.com/zh/blog/image-optimization-techniques-guide)
+- [图片处理完全指南：裁剪、水印、格式转换的原理与实践](https://qubittool.com/zh/blog/image-processing-complete-guide)
+- [JSON与CSV转换完全指南](https://qubittool.com/zh/blog/json-csv-conversion-guide)
 - [JSON对比工具完全指南](https://qubittool.com/zh/blog/json-diff-tool-principles-applications)
 - [JSON格式化与压缩完全指南](https://qubittool.com/zh/blog/json-formatting-and-minification-guide)
 - [JSON Schema验证完全指南](https://qubittool.com/zh/blog/json-schema-validation-guide)
+- [JSON转代码完全指南](https://qubittool.com/zh/blog/json-to-code-complete-guide)
 - [JSON vs XML终极对决](https://qubittool.com/zh/blog/json-vs-xml-ultimate-showdown)
+- [JSONPath完全指南](https://qubittool.com/zh/blog/jsonpath-complete-guide)
 - [JWT原理与应用完全指南](https://qubittool.com/zh/blog/jwt-principles-and-applications)
 - [MD5哈希详解](https://qubittool.com/zh/blog/md5-hash-explained)
+- [密码生成器完全指南](https://qubittool.com/zh/blog/password-generator-complete-guide)
 - [PDF转换工具指南](https://qubittool.com/zh/blog/pdf-conversion-tools-guide)
+- [QR Code二维码完全指南](https://qubittool.com/zh/blog/qrcode-complete-guide)
+- [正则表达式完全指南](https://qubittool.com/zh/blog/regex-complete-guide)
+- [SQL格式化完全指南](https://qubittool.com/zh/blog/sql-formatter-complete-guide)
+- [文本对比算法完全指南：Diff原理、LCS算法与实现](https://qubittool.com/zh/blog/text-diff-complete-guide)
+- [文本编码完全指南：HTML实体、ASCII、Unicode与字符编码原理](https://qubittool.com/zh/blog/text-encoding-complete-guide)
 - [时间戳转换完全指南](https://qubittool.com/zh/blog/timestamp-conversion-comprehensive-guide)
 - [Unix时间戳转换指南](https://qubittool.com/zh/blog/timestamp-conversion-guide)
 - [TOON格式：节省50%大模型Token消耗](https://qubittool.com/zh/blog/toon-format-llm-token-optimization)
 - [URL编码解码完全指南](https://qubittool.com/zh/blog/url-encoding-decoding-mysteries)
 - [URL编码详解](https://qubittool.com/zh/blog/url-encoding-explained)
 - [UUID完全指南](https://qubittool.com/zh/blog/uuid-complete-guide)
+- [世界时钟与时区完全指南：时区原理、夏令时与编程实现](https://qubittool.com/zh/blog/world-clock-timezone-guide)
+- [YAML与JSON互转完全指南](https://qubittool.com/zh/blog/yaml-json-conversion-guide)
 
 ---
 
