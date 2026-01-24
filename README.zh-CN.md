@@ -69,7 +69,9 @@
   - [SVG转PNG](https://qubittool.com/zh/tools/svg-to-png)
   - [图片转Base64](https://qubittool.com/zh/tools/image-to-base64)
   - [Base64转图片](https://qubittool.com/zh/tools/base64-to-image)
+  - [GIF 制作器](https://qubittool.com/zh/tools/gif-maker)
   - [SVG 优化器](https://qubittool.com/zh/tools/svg-optimizer)
+  - [图片拼接](https://qubittool.com/zh/tools/image-collage)
 - **PDF工具**
   - [PDF 压缩](https://qubittool.com/zh/tools/pdf-compressor)
   - [PDF 合并](https://qubittool.com/zh/tools/pdf-merger)
@@ -101,11 +103,16 @@
   - [UUID 生成器](https://qubittool.com/zh/tools/uuid-generator)
   - [Cron 表达式生成器](https://qubittool.com/zh/tools/cron-generator)
   - [Lorem Ipsum 生成器](https://qubittool.com/zh/tools/lorem-ipsum-generator)
+  - [BMI计算器](https://qubittool.com/zh/tools/bmi-calculator)
+  - [Emoji选择器](https://qubittool.com/zh/tools/emoji-picker)
+  - [贷款计算器](https://qubittool.com/zh/tools/loan-calculator)
+  - [随机数据生成器](https://qubittool.com/zh/tools/random-data-generator)
 - **时间与位置**
   - [Geohash转换](https://qubittool.com/zh/tools/geohash-tool)
   - [时间戳转换器](https://qubittool.com/zh/tools/timestamp-converter)
   - [世界时钟](https://qubittool.com/zh/tools/world-clock)
   - [IP 地址查询](https://qubittool.com/zh/tools/ip-address-lookup)
+  - [DNS 查询](https://qubittool.com/zh/tools/dns-lookup)
 - **文本与代码**
   - [正则表达式测试](https://qubittool.com/zh/tools/regex-tester)
   - [SQL 格式化工具](https://qubittool.com/zh/tools/sql-formatter)
@@ -118,6 +125,9 @@
 - **AI网站导航**
   - [AI网站导航](https://qubittool.com/zh/tools/ai-directory)
   - [AI提示词网站导航](https://qubittool.com/zh/tools/awesome-prompt-directory)
+  - [MCP Server 导航](https://qubittool.com/zh/tools/mcp-directory)
+  - [AI Agent 导航](https://qubittool.com/zh/tools/agent-directory)
+  - [AI Skills 导航](https://qubittool.com/zh/tools/skill-directory)
 
 ### 📝 精选博文
 

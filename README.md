@@ -69,7 +69,9 @@ Our growing collection of tools is organized into the following categories. Clic
   - [SVG to PNG](https://qubittool.com/en/tools/svg-to-png)
   - [Image to Base64](https://qubittool.com/en/tools/image-to-base64)
   - [Base64 to Image](https://qubittool.com/en/tools/base64-to-image)
+  - [GIF Maker](https://qubittool.com/en/tools/gif-maker)
   - [SVG Optimizer](https://qubittool.com/en/tools/svg-optimizer)
+  - [Image Collage](https://qubittool.com/en/tools/image-collage)
 - **PDF Tools**
   - [PDF Compressor](https://qubittool.com/en/tools/pdf-compressor)
   - [PDF Merger](https://qubittool.com/en/tools/pdf-merger)
@@ -101,11 +103,16 @@ Our growing collection of tools is organized into the following categories. Clic
   - [UUID Generator](https://qubittool.com/en/tools/uuid-generator)
   - [Cron Generator](https://qubittool.com/en/tools/cron-generator)
   - [Lorem Ipsum Generator](https://qubittool.com/en/tools/lorem-ipsum-generator)
+  - [BMI Calculator](https://qubittool.com/en/tools/bmi-calculator)
+  - [Emoji Picker](https://qubittool.com/en/tools/emoji-picker)
+  - [Loan Calculator](https://qubittool.com/en/tools/loan-calculator)
+  - [Random Data Generator](https://qubittool.com/en/tools/random-data-generator)
 - **TIME & LOCATION**
   - [Geohash Encoder/Decoder](https://qubittool.com/en/tools/geohash-tool)
   - [Timestamp Converter](https://qubittool.com/en/tools/timestamp-converter)
   - [World Clock](https://qubittool.com/en/tools/world-clock)
   - [IP Address Lookup](https://qubittool.com/en/tools/ip-address-lookup)
+  - [DNS Lookup](https://qubittool.com/en/tools/dns-lookup)
 - **TEXT & CODE**
   - [Regex Tester](https://qubittool.com/en/tools/regex-tester)
   - [SQL Formatter](https://qubittool.com/en/tools/sql-formatter)
@@ -118,6 +125,9 @@ Our growing collection of tools is organized into the following categories. Clic
 - **AI Directory**
   - [AI Websites Directory](https://qubittool.com/en/tools/ai-directory)
   - [AI Prompt Websites](https://qubittool.com/en/tools/awesome-prompt-directory)
+  - [MCP Server Directory](https://qubittool.com/en/tools/mcp-directory)
+  - [AI Agent Directory](https://qubittool.com/en/tools/agent-directory)
+  - [AI Skills Directory](https://qubittool.com/en/tools/skill-directory)
 
 ### 📝 Featured Blog Posts
 
